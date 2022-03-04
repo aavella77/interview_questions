@@ -1,15 +1,15 @@
 # interview_questions
 Sample interview questions with solutions in Python 3
 
-# Topic 1 | Arrays & Strings
-## A Very Big Sum (Warm-up, learning how to use HackerRank)
-## Designer PDF Viewer
-## Left Rotation
-# Topic 2 | Lists
-## Pre-work: If you need to familiarize yourself with how lists work, watch this video. 
-## Exercises
-### Inserta Node at a Position Given in a List
-### Cycle Detection
+## Topic 1 | Arrays & Strings
+1. A Very Big Sum (Warm-up, learning how to use HackerRank)
+2. Designer PDF Viewer
+3. Left Rotation
+## Topic 2 | Lists
+1. Pre-work: If you need to familiarize yourself with how lists work, watch this video. 
+2. Exercises
+    - Inserta Node at a Position Given in a List
+    - Cycle Detection
 # Topic 3 | Stacks & Queues
 ## Pre-work: If you need a refresher, take a look at this video 
 ## Exercises
