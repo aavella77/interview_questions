@@ -2,9 +2,10 @@
 Sample interview questions with solutions in Python 3
 
 ## Topic 1 | Arrays & Strings
-1. A Very Big Sum (Warm-up, learning how to use HackerRank)
-2. Designer PDF Viewer
-3. Left Rotation
+1. Exercises
+    - A Very Big Sum (Warm-up, learning how to use HackerRank)
+    - Designer PDF Viewer
+    - Left Rotation
 ## Topic 2 | Lists
 1. Pre-work: If you need to familiarize yourself with how lists work, watch this video. 
 2. Exercises
@@ -12,7 +13,7 @@ Sample interview questions with solutions in Python 3
     - Cycle Detection
 ## Topic 3 | Stacks & Queues
 1. Pre-work: If you need a refresher, take a look at this video 
-2.Exercises
+2. Exercises
     - Balanced Brackets
     - Queue Using Two Stacks
 ## Topic 4 | Hash & Maps
@@ -21,7 +22,8 @@ Sample interview questions with solutions in Python 3
     - Ice Cream Parlor
     - Colorful Number
 ## Topic 5 | Sorting Algorithms
-1. Pre-work: If you need a refresher take a look at these videos: Merge Sort • Exercises
+1. Pre-work: If you need a refresher take a look at these videos: Merge Sort
+2. Exercises
     - Insertion Sort part 2 
     - Quicksort part 2
 ## Topic 6 | Trees
@@ -37,5 +39,5 @@ Sample interview questions with solutions in Python 3
     - Snakes and Ladders
 ## Topic 8 | Recursion
 1. Theory: Watch this video to review concepts on recursion
-    - Exercises
+2. Exercises
     - Fibonacci Numbers
