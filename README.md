@@ -3,7 +3,7 @@ Sample interview questions with solutions in Python 3
 
 ## Topic 1 | Arrays & Strings
 1. Exercises
-    - Palindrome [Notebook](arrays-strings/is_palindrome.ipynb)
+    - Palindrome [Notebook](10-arrays-strings/is_palindrome.ipynb)
     - Designer PDF Viewer
     - Left Rotation
 ## Topic 2 | Lists
