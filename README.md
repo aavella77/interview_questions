@@ -3,12 +3,13 @@ Sample interview questions with solutions in Python 3
 
 ## Topic 1 | Arrays & Strings
 1. Exercises
+    - Palindrome [Notebook](arrays-strings/is_palindrome.ipynb)
     - Designer PDF Viewer
     - Left Rotation
 ## Topic 2 | Lists
 1. Pre-work: If you need to familiarize yourself with how lists work, watch this [video](https://www.youtube.com/watch?v=njTh_OwMljA])
 2. Exercises
-    - Inserta Node at a Position Given in a List
+    - Insert a Node at a Position Given in a List
     - Cycle Detection
 ## Topic 3 | Stacks & Queues
 1. Pre-work: If you need a refresher, take a look at this [video](https://www.youtube.com/watch?v=wjI1WNcIntg) 
