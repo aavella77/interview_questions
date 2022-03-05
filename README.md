@@ -3,7 +3,6 @@ Sample interview questions with solutions in Python 3
 
 ## Topic 1 | Arrays & Strings
 1. Exercises
-    - A Very Big Sum (Warm-up, learning how to use HackerRank)
     - Designer PDF Viewer
     - Left Rotation
 ## Topic 2 | Lists
