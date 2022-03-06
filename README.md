@@ -4,6 +4,7 @@ Sample interview questions with solutions in Python 3
 ## Topic 1 | Arrays & Strings
 1. Exercises
     - Palindrome [Notebook](10-arrays-strings/is_palindrome.ipynb)
+    - Move Zeroes to the end [Notebook](10-arrays-strings/moveZeroes.ipynb)
     - Designer PDF Viewer
     - Left Rotation
 ## Topic 2 | Lists
